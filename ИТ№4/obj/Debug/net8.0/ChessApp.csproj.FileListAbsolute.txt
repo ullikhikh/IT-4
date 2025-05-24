@@ -1,0 +1,8 @@
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\ChessApp.csproj.AssemblyReference.cache
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\Avalonia\resources
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\ChessApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\ChessApp.AssemblyInfoInputs.cache
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\ChessApp.AssemblyInfo.cs
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\ChessApp.csproj.CoreCompileInputs.cache
+D:\Education\IT\3att\IT_Task_4\obj\Debug\net8.0\ChessApp.sourcelink.json
